@@ -1,0 +1,40 @@
+# Python ML Training Requirements
+# RTB DSP Machine Learning Models
+
+# Core ML Libraries
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+
+# Deep Learning
+tensorflow==2.13.0
+keras==2.13.1
+
+# XGBoost for CTR/CVR prediction
+xgboost==1.7.6
+
+# Data Processing
+scipy==1.11.1
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Model Persistence
+joblib==1.3.1
+pickle5==0.0.11
+
+# API Integration
+requests==2.31.0
+flask==2.3.2
+flask-cors==4.0.0
+
+# Environment Management
+python-dotenv==1.0.0
+
+# Progress Bars
+tqdm==4.65.0
+
+# Jupyter (optional, for experimentation)
+jupyter==1.0.0
+ipykernel==6.25.0
